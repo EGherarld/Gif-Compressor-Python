@@ -1,22 +1,5 @@
 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Eres libre de usarlo, modificarlo y distribuirlo, siempre y cuando mantengas la atribución al autor original.
-
-
----
-
-### 3. El Tipo de Licencia
-
-Para este tipo de herramientas, la mejor licencia es la **MIT License**.
-
-**¿Por qué?**
-* Es la más popular y "amigable" en el mundo del código abierto.
-* Permite que cualquiera use tu script (incluso para fines comerciales en su empresa).
-* La única condición es que **deben mantener tu nombre (EGherarld)** en el archivo de licencia o en el código.
-* Te protege a ti: Dice explícitamente que el software se entrega "tal cual" y no eres responsable si alguien borra sus archivos por error (aunque tu script ya protege contra eso).
-
-Aquí tienes el texto para poner en un archivo llamado `LICENSE`:
-
 ```text
 MIT License
 
